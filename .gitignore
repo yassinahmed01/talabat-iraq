@@ -14,3 +14,6 @@ android/.gradle/
 .DS_Store
 .idea/
 .vscode/
+
+# Ignore the roadmap file
+RoadMap.docx
